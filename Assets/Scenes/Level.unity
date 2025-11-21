@@ -461,8 +461,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxSpeed: 10
   jumpForce: 10
-  spriteRenderer: {fileID: 0}
-  animator: {fileID: 0}
+  spriteRenderer: {fileID: 650653772}
+  animator: {fileID: 650653767}
 --- !u!70 &650653769
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
